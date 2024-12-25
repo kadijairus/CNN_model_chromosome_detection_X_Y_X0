@@ -3,4 +3,4 @@ Training of CNN model to detect sex chromosomes and monosomy X from metaphase pi
 
 Under development!
 
-kj 19-12-2024
+kj 12-2024
